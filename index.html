@@ -16,7 +16,7 @@
       You can write text in a comment and the content won't be visible in the page
     -->
 
-    <title>Basketball Stats</title>
+    <title>NBA Player Stats</title>
 
     <!-- Meta tags for SEO and social sharing -->
     <link rel="canonical" href="https://glitch-hello-website.glitch.me/" />
@@ -40,53 +40,45 @@
 
     <!-- Import the webpage's stylesheet -->
     <link rel="stylesheet" href="/style.css" />
-
+    <link
+      href="https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap"
+      rel="stylesheet"
+    />
     <!-- Import the webpage's javascript file -->
     <script src="/script.js" defer></script>
   </head>
   <body>
-    
-      
-      <div id="test">
- 
-    <h1 class="line-1 anim-typewriter">Basketball Player</h1>
-    
-   
-    
-  <h2> Instructions: Select a player below to view their stats. </h2>
-</div>
-    <input type="text" />
-    <button type="button" name="button">enter</button>
-    
+    <h1 class="line-1 anim-typewriter">NBA Player Stats</h1>
 
-    <h3>Name</h3>
-    <p class="first-name">
-      
+    <input class="player" type="text" placeholder="Choose A Player" />
+    <input class="team" type="text" placeholder="Choose A Team"/>
+    <p>
+       or
     </p>
-    <p class="last-name">
-      
-    </p>
-   
-    <h3>
-      Position
-    </h3>
-    <p class="position">
-      
-    </p>
-     <h3>
-      Height
-    </h3>
-    <p class="height-feet">
-      
-    </p>
-    <p class="height-inches">
-      
-    </p>
-    <h3>
-      Weight
-    </h3>
-    <p class="weight-pounds">
-      
-    </p>
+    <button type="button" name="button">Enter</button>
+
+    <div class="stats">
+      <h3>Player Name:</h3>
+      <p><span class="first-name"> </span> <span class="last-name"> </span></p>
+
+      <h3>Player Position:</h3>
+      <p class="position"></p>
+      <h3>Player Height (feet, inches):</h3>
+      <p>
+        <span class="height-feet"> </span> <span class="height-inches"></span>
+      </p>
+      <p class="height-inches"></p>
+      <h3>Player Weight (pounds):</h3>
+      <p class="weight-pounds"></p>
+      <h4>Team:</h4>
+      <p class="name"></p>
+      <h5>Division:</h5>
+      <p class="division"></p>
+      <h6>Conference:</h6>
+      <p class="conference"></p>
+      <h2>City:</h2>
+      <p><span class="city"> </span> <span class="abbreviation"></span></p>
+    </div>
   </body>
 </html>
+

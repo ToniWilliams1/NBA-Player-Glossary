@@ -4,7 +4,6 @@ This project where the user can enter either a basketbll players name or team an
 
 **Link to project:** 
 
-![alt tag](http://placecorgi.com/1200/650)
 
 ## How It's Made:
 

@@ -1,13 +1,14 @@
-# NBA Player Information 🏀
+# NBA Fantasy Team  🏀
  
-This project allows a user to enter either a basketball players name or team and will retrieve the player/team statistics.
+This project allows users to enter either a NBA basketball players' name and will retrieve the player statistics. Users will then be allowed to create their own fantasy teams with the players of their choice.
 
-**Link to project:** 
+## Link To Project: 
 
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Basketball Web API
+## Tech Used:
+HTML, CSS, JavaScript, Basketball Web API
 
 
 

@@ -1,6 +1,6 @@
-# NBA Fantasy Team  🏀
+# NBA Player Glossary  🏀
  
-This project allows users to enter either a NBA basketball players' name and will retrieve the player statistics. Users will then be allowed to create their own fantasy teams with the players of their choice.
+A NBA player glossary which provides with access with a glossary of information from all players from all seasons. Users enter a NBA basketball players' name and will retrieve the player information. 
 
 # Preview
 
@@ -8,10 +8,30 @@ View the live site [here]
 <img width="1125" alt="Screen Shot 2022-11-06 at 12 20 19 AM" src="https://user-images.githubusercontent.com/100317017/200154003-f24573ce-db07-4128-a2d3-ff25c49695d7.png">
 
 
-## How It's Made:
+# Installation
 
-## Tech Used:
-HTML, CSS, JavaScript, Basketball Web API
+Get a free API Key [here](https://www.balldontlie.io/#players).
+
+Clone the repo git clone https://github.com/toniwilliams1/NBA-Player-Glossary.git
+
+Enter your API in config.js const API_KEY = 'ENTER YOUR API';
+
+# Contributing
+
+Contributions are always welcome!
+
+See contributing.md for ways to get started.
+
+Please adhere to this project's code of conduct.
+
+#Authors:
+
+[Toni Williams](toniwilliams.netlify.app)
+
+# Feedback:
+
+Liked the work ? Please give the repository a star ⭐️.
+If you have any feedback, please reach out to toniwilliams03@outlook.com.
 
 
 

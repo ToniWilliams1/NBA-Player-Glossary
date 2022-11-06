@@ -35,13 +35,13 @@ p {
 }
 
 .stats {
-  height: 1000px;
+  height: 200px;
   max-width: 500px;
   background-color: #990000;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   text-align: center;
   margin: auto;
-  border-radius: 10px;
+  border-radius: 20px;
 }
 
 .image {
@@ -54,3 +54,5 @@ p {
   text-align: center;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
+
+

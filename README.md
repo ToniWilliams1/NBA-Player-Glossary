@@ -14,7 +14,7 @@ Get a free API Key [here](https://www.balldontlie.io/#players).
 
 Clone the repo git clone https://github.com/toniwilliams1/NBA-Player-Glossary.git
 
-Enter your API in config.js const API_KEY = 'ENTER YOUR API';
+Enter your API in script.js const API_KEY = 'ENTER YOUR API';
 
 # Contributing
 

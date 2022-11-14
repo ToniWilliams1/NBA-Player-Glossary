@@ -18,7 +18,7 @@ Enter your API in script.js const API_KEY = 'ENTER YOUR API';
 
 # Acknowledgements
 
-[Ball dont lie API]
+[Ball dont lie API](https://www.balldontlie.io/#players).
 
 # Author
 

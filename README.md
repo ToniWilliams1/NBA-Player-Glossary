@@ -20,14 +20,7 @@ Enter your API in script.js const API_KEY = 'ENTER YOUR API';
 
 [Ball dont lie API](https://www.balldontlie.io/#players).
 
-# Author
 
-[Toni Williams](toniwilliams.netlify.app)
-
-# Feedback:
-
-Liked the work ? Please give the repository a star ⭐️.
-If you have any feedback, please reach out to toniwilliams03@outlook.com.
 
 
 

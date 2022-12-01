@@ -19,7 +19,7 @@ Users can enter the name of any NBA player and access information about a player
 
 [Your Ball Dont Lie API Key](https://www.balldontlie.io/#players)
 
-# Start App
+## Start App
 
 Npm install
 

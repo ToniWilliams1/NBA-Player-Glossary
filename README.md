@@ -27,7 +27,7 @@ Clone the repo git clone https://github.com/toniwilliams1/NBA-Player-Glossary.gi
 
 NPM start
 
-## [Demo]
+## Demo
 <img width="800" alt="Screen Shot 2022-11-06 at 12 20 19 AM" src="https://user-images.githubusercontent.com/100317017/200154003-f24573ce-db07-4128-a2d3-ff25c49695d7.png">
 
 

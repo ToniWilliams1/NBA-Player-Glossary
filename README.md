@@ -5,20 +5,18 @@ A NBA player glossary which provides access to a glossary of information from al
 ## Key Technologies, Packages, and Gems
 
 •Front end <br>
+HTML <br>
+CSS <br>
+JavaScript <br>
 Daisy-UI <br>
-Ball Don't Lie API
 
 •Back end <br>
 Node.js 
+Ball Don't Lie API
 
 ## Core Features
 
 Users can enter the name of any NBA player and access information about a player's height, weight, team, division, and conference.
-
-## Things To Add
-
-[Your Ball Dont Lie API Key](https://www.balldontlie.io/#players)
-
 ## Start App
 
 Npm install

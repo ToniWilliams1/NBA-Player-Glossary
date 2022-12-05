@@ -1,4 +1,4 @@
-# NBA Player Glossary  🏀
+# NBA Player Glossary  
  
 A NBA player glossary which provides access to a glossary of information from all players from all seasons.
 
@@ -8,10 +8,11 @@ A NBA player glossary which provides access to a glossary of information from al
 HTML <br>
 CSS <br>
 JavaScript <br>
+Tailwind CSS <br>
 Daisy-UI <br>
 
 •Back end <br>
-Node.js 
+Node.js <br>
 Ball Don't Lie API
 
 ## Core Features

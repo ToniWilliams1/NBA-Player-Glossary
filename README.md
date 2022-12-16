@@ -4,16 +4,15 @@ A NBA player glossary which provides access to a glossary of information from al
 
 ## Key Technologies, Packages, and Gems
 
-•Front end <br>
+## Front end <br>
+Daisy-UI <br>
 HTML <br>
-CSS <br>
 JavaScript <br>
 Tailwind CSS <br>
-Daisy-UI <br>
 
-•Back end <br>
-Node.js <br>
+$$ Back end <br>
 Ball Don't Lie API
+Node.js <br>
 
 ## Core Features
 

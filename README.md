@@ -11,7 +11,7 @@ JavaScript <br>
 Tailwind CSS <br>
 
 ## Back end <br>
-Ball Don't Lie API
+Ball Don't Lie API <br>
 Node.js <br>
 
 ## Core Features
